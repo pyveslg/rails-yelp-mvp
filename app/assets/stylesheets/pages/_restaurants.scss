@@ -1,0 +1,95 @@
+// Place all the styles related to the restaurants controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.resto {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 18px 0;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 17px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0;
+  padding: 18px;
+  h1 {
+    color: white;
+  }
+}
+
+.secondary-attributes {
+  padding: 0 15px;
+  min-height: 1px;
+  box-sizing: border-box;
+  width: 37.5%;
+  margin-top: 3px;
+}
+
+.primary-attributes {
+  padding: 0 15px;
+  min-height: 1px;
+  box-sizing: border-box;
+  width: 62.5%;
+}
+
+.i-stars {
+  background: url(https://s3-media1.fl.yelpcdn.com/assets/srv0/yelp_design_web/41341496d9db/assets/img/stars/stars.png) no-repeat;
+  background-size: 132px 560px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.i-stars--regular-5 {
+  width: 102px;
+  height: 18px;
+  background-position: 0 -402px;
+}
+
+.i-stars--regular-4 {
+  width: 102px;
+  height: 18px;
+  background-position: 0 -366px;
+}
+
+.i-stars--regular-3 {
+  width: 102px;
+  height: 18px;
+  background-position: 0 -330px;
+}
+
+.i-stars--regular-2 {
+  width: 102px;
+  height: 18px;
+  background-position: 0 -294px;
+}
+
+.i-stars--regular-1 {
+    width: 102px;
+    height: 18px;
+    background-position: 0 -258px;
+}
+
+.i-stars--regular-0 {
+    width: 102px;
+    height: 18px;
+    background-position: 0 -240px;
+}
+
+.review-content {
+    margin-top: 40px;
+    padding: 0 15px;
+    min-height: 50px;
+    width: 62.5%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    word-wrap: break-word !important;
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+}
+

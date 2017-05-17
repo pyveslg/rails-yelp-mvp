@@ -1,0 +1,23 @@
+.resto {
+  display: flex;
+  justify-content: space-between;
+  margin: 0;
+  padding: 18px 0;
+  border-bottom: 1px solid #e6e6e6;
+  padding-bottom: 17px;
+}
+
+.secondary-attributes {
+  padding: 0 15px;
+  min-height: 1px;
+  box-sizing: border-box;
+  width: 37.5%;
+  margin-top: 3px;
+}
+
+.primary-attributes {
+  padding: 0 15px;
+  min-height: 1px;
+  box-sizing: border-box;
+  width: 62.5%;
+}

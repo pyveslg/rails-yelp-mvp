@@ -14,28 +14,33 @@ restaurants_attributes = [
   {
     name:         "Epicure au Bristol",
     address:      "112 rue du Fg St-Honoré 75008 Paris",
-    category:     "italian"
+    category:     "italian",
+    phone_number: "01 56 78 92 35"
   },
   {
     name:         "La truffière",
     address:      "4 rue Blainville 75005 Paris",
-    category:     "french"
+    category:     "french",
+    phone_number: "01 56 78 92 35"
   },
   {
     name:         "Le pré catelan",
     address:      "route de Suresnes 75016 Paris",
-    category:     "french"
+    category:     "french",
+    phone_number: "01 56 78 92 35"
 
   },
   {
     name:         "Le Chateaubriand",
     address:      "129 avenue Parmentier 75011 Paris",
-    category:     "french"
+    category:     "french",
+    phone_number: "01 56 78 92 35"
   },
   {
     name:         "Pane Olio e Pomodoro",
     address:      "46 rue de la Fontaine au Roi 75011 Paris",
-    category:     "italian"
+    category:     "italian",
+    phone_number: "01 56 78 92 35"
   }
 
 
